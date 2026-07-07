@@ -1,4 +1,4 @@
-# SOC Incident 001 — Multiple Failed Authentication Attempts
+# SOC Incident #002 Suspicious PowerShell Execution
 
 ## Incident Overview
 
